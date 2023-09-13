@@ -1271,3 +1271,20 @@ LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
 [2023.09.13-14.19.18:997][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
 [2023.09.13-14.19.19:001][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
 [2023.09.13-14.19.19:014][325]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms
+[2023.09.13-14.20.24:818][502]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.09.13-14.20.47:932][538]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.13-14.20.56:491][742]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.13-14.20.56:770][742]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.09.13-14.20.56:788][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.09.13-14.20.56:805][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.09.13-14.20.56:829][742]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.021346 seconds
+[2023.09.13-14.20.56:834][742]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO
+[2023.09.13-14.20.56:836][742]LogSavePackage: Moving '../../../../../../Users/arthu/Documents/ProjectY/ProjectY/Saved/NB37RT5Q32Z8MJWD8BD2SOA2A8AFA94F15BCAD48C20CB3D81A02FF.tmp' to '../../../../../../Users/arthu/Documents/ProjectY/ProjectY/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset'
+[2023.09.13-14.20.56:888][742]LogFileHelpers: InternalPromptForCheckoutAndSave took 398 ms (total: 527 ms)
+[2023.09.13-14.20.56:898][742]AssetCheck: New page: Asset Save: TextRenderActor_1
+[2023.09.13-14.20.56:898][742]LogContentValidation: Display: Validating /Script/Engine.TextRenderActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.TextRenderActor_1
+[2023.09.13-14.21.21:565][359]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.13-14.21.21:920][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.09.13-14.21.21:940][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.09.13-14.21.21:957][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.09.13-14.21.21:988][359]LogFileHelpers: InternalPromptForCheckoutAndSave took 423 ms (total: 950 ms)
